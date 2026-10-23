@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FairFight.Common/FairFight.Common.csproj" />
+  <Project Path="FairFight.Publisher/FairFight.Publisher.csproj" />
+  <Project Path="FairFight.Subscriber/FairFight.Subscriber.csproj" />
+</Solution>

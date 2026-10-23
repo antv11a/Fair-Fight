@@ -1,0 +1,11 @@
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\bin\Release\net10.0\FairFight.Common.deps.json
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\bin\Release\net10.0\FairFight.Common.dll
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\bin\Release\net10.0\FairFight.Common.pdb
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\FairFight.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\FairFight.Common.AssemblyInfoInputs.cache
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\FairFight.Common.AssemblyInfo.cs
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\FairFight.Common.csproj.CoreCompileInputs.cache
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\FairFight.Common.dll
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\refint\FairFight.Common.dll
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\FairFight.Common.pdb
+C:\Users\antvi\OneDrive\Documents\Projects\School\Fair Fight\FairFightTransport\FairFight.Common\obj\Release\net10.0\ref\FairFight.Common.dll

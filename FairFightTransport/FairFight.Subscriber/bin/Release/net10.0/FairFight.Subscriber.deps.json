@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FairFight.Subscriber/1.0.0": {
+        "dependencies": {
+          "FairFight.Common": "1.0.0"
+        },
+        "runtime": {
+          "FairFight.Subscriber.dll": {}
+        }
+      },
+      "FairFight.Common/1.0.0": {
+        "runtime": {
+          "FairFight.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FairFight.Subscriber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FairFight.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
